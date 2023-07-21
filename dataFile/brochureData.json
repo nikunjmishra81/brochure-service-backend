@@ -1,0 +1,112 @@
+{
+  "brochures": [
+    {
+      "id": 508661,
+      "title": "Brochure 1",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://...jpg?policy=thumbnails",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "410369225",
+        "name": "Xooon",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://...jpg?policy=thumbnails",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 21.2,
+        "long": 22.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://.../webapp/viewer/508661492..."
+        }
+      }
+    },
+    {
+      "id": 508662,
+      "title": "Brochure 2",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://...jpg?policy=thumbnails",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "410369225",
+        "name": "Xooon",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://...jpg?policy=thumbnails",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.2,
+        "long": 23.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://.../webapp/viewer/508661492..."
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 3",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://...jpg?policy=thumbnails",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "410369225",
+        "name": "Xooon",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://...jpg?policy=thumbnails",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 23.2,
+        "long": 24.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://.../webapp/viewer/508661492..."
+        }
+      }
+    }
+  ]
+}
