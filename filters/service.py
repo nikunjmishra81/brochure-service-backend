@@ -73,12 +73,11 @@ class GetBrochureDataService:
         # todo : Need to fix below when key not found using default dict
         # import pdb
         # pdb.set_trace()
-        page = request_body["page"]
-        size = request_body["size"]
+        page = int(request_body["page"])
+        size = int(request_body["size"])
         offset = size * (page - 1)
         limit = size * page
 
-        print(page, size, offset, limit)
 
         paginated_data = {
             "page": {
