@@ -1,0 +1,50 @@
+version: "3.8"
+
+services:
+
+
+
+
+
+
+  brochure_app_backend:
+    build:
+      context: ./brochure-service-backend
+      dockerfile: Dockerfile
+    container_name: brochure_app_backend_container
+    image: brochure_app_backend_image
+    privileged: true
+    ports:
+      - 8001:8001
+    restart: always
+  
+  database_service:
+    container_name: postgres_container
+    image: postgres:alpine
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres123
+      - POSTGRES_DB=localdb
+      - PGDATA=/data/postgres
+    # volumes:
+    #   - ./db_backup/:/data/postgres
+    expose:
+      - 5432
+    restart: always
+
+
+  city_product_app_backend:
+    build:
+      context: ./city-products-service-backend
+      dockerfile: Dockerfile
+    container_name: city_products_service_backend_container
+    image: city_products_service_backend_image
+    ports:
+      - 80:3036
+    restart: always
+    depends_on:
+      - database_service
+
+  
+
+         
