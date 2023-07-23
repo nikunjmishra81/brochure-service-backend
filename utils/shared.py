@@ -134,7 +134,7 @@ def validated_payload(request_body: dict):
     except:
         return False
     
-    publisher_ids = request_body.get('publisherIds', None)
+    publisher_ids = request_body.get('publisherId', None)
     query = request_body.get('query', None)
     page = request_body.get('page', constants.DEFAULT_PAGE)
     size = request_body.get('size', constants.PAGE_SIZE)
