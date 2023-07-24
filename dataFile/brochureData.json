@@ -8,23 +8,23 @@
       "validUntil": "2021-05-14T23:00:00",
       "rank": 1.0,
       "brochureImages": {
-        "thumbnails": "https://...jpg?policy=thumbnails",
+        "thumbnails": "https://helpx.adobe.com/content/dam/help/en/indesign/how-to/make-brochure/jcr%3Acontent/main-pars/image/make-brochure_v1_1000x560.jpg.img.jpg",
         "normal": "https://...jpg?policy=320x480",
         "large": "https://...jpg?policy=768x1024"
       },
       "publisher": {
         "id": "410369225",
-        "name": "Xooon",
+        "name": "Publisher 1",
         "publisherType": "RETAILER",
         "logo": {
-          "thumbnails": "https://...jpg?policy=thumbnails",
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
           "normal": "https://...jpg?policy=320x480",
           "large": "https://...jpg?policy=768x1024"
         }
       },
       "location": {
-        "lat": 21.2,
-        "long": 22.3
+        "lat": 22.3,
+        "long": 105.3
       },
       "page": 0,
       "type": "BROCHURE",
@@ -32,7 +32,7 @@
       "publishedUntil": "2021-05-14T21:00:00.000+0000",
       "_links": {
         "self": {
-          "href": "https://.../webapp/viewer/508661492..."
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
         }
       }
     },
@@ -44,23 +44,23 @@
       "validUntil": "2021-05-14T23:00:00",
       "rank": 1.0,
       "brochureImages": {
-        "thumbnails": "https://...jpg?policy=thumbnails",
+        "thumbnails": "https://i0.wp.com/vibrantgraphic.com/wp-content/uploads/2019/08/Print-Bi-Fold-Brochure-Design-9.jpg?fit=2500%2C1667&ssl=1",
         "normal": "https://...jpg?policy=320x480",
         "large": "https://...jpg?policy=768x1024"
       },
       "publisher": {
-        "id": "410369225",
-        "name": "Xooon",
+        "id": "2",
+        "name": "Publisher 2",
         "publisherType": "RETAILER",
         "logo": {
-          "thumbnails": "https://...jpg?policy=thumbnails",
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
           "normal": "https://...jpg?policy=320x480",
           "large": "https://...jpg?policy=768x1024"
         }
       },
       "location": {
-        "lat": 22.2,
-        "long": 23.3
+        "lat": 22.3,
+        "long": 105.3
       },
       "page": 0,
       "type": "BROCHURE",
@@ -80,23 +80,23 @@
       "validUntil": "2021-05-14T23:00:00",
       "rank": 1.0,
       "brochureImages": {
-        "thumbnails": "https://...jpg?policy=thumbnails",
+        "thumbnails": "https://www.mimeo.com/wp-content/uploads/2022/01/3-copy.jpg",
         "normal": "https://...jpg?policy=320x480",
         "large": "https://...jpg?policy=768x1024"
       },
       "publisher": {
-        "id": "410369225",
-        "name": "Xooon",
+        "id": "3",
+        "name": "Publisher 3",
         "publisherType": "RETAILER",
         "logo": {
-          "thumbnails": "https://...jpg?policy=thumbnails",
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
           "normal": "https://...jpg?policy=320x480",
           "large": "https://...jpg?policy=768x1024"
         }
       },
       "location": {
-        "lat": 23.2,
-        "long": 24.3
+        "lat": 22.3,
+        "long": 105.3
       },
       "page": 0,
       "type": "BROCHURE",
@@ -104,7 +104,1090 @@
       "publishedUntil": "2021-05-14T21:00:00.000+0000",
       "_links": {
         "self": {
-          "href": "https://.../webapp/viewer/508661492..."
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 4",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://graphicsfamily.com/wp-content/uploads/2020/07/Creative-and-modern-Bi-Fold-Business-Brochure-Design-psd-scaled.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "4",
+        "name": "Publisher 4",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 5",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://psd.design/wp-content/uploads/2020/12/Creative-brochure-template.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 6",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://helpx.adobe.com/content/dam/help/en/indesign/how-to/make-brochure/jcr%3Acontent/main-pars/image/make-brochure_v1_1000x560.jpg.img.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "6",
+        "name": "Publisher 6",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 7",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://i0.wp.com/vibrantgraphic.com/wp-content/uploads/2019/08/Print-Bi-Fold-Brochure-Design-9.jpg?fit=2500%2C1667&ssl=1",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "7",
+        "name": "Publisher 7",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 8",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://www.mimeo.com/wp-content/uploads/2022/01/3-copy.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "8",
+        "name": "Publisher 8",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 9",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://graphicsfamily.com/wp-content/uploads/2020/07/Creative-and-modern-Bi-Fold-Business-Brochure-Design-psd-scaled.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "3",
+        "name": "Publisher 3",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 10",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://psd.design/wp-content/uploads/2020/12/Creative-brochure-template.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "3",
+        "name": "Publisher 3",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 11",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://helpx.adobe.com/content/dam/help/en/indesign/how-to/make-brochure/jcr%3Acontent/main-pars/image/make-brochure_v1_1000x560.jpg.img.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "3",
+        "name": "Publisher 3",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 12",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://i0.wp.com/vibrantgraphic.com/wp-content/uploads/2019/08/Print-Bi-Fold-Brochure-Design-9.jpg?fit=2500%2C1667&ssl=1",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "4",
+        "name": "Publisher 4",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 13",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://www.mimeo.com/wp-content/uploads/2022/01/3-copy.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "4",
+        "name": "Publisher 4",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 14",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://graphicsfamily.com/wp-content/uploads/2020/07/Creative-and-modern-Bi-Fold-Business-Brochure-Design-psd-scaled.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "4",
+        "name": "Publisher 4",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 15",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://psd.design/wp-content/uploads/2020/12/Creative-brochure-template.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "4",
+        "name": "Publisher 4",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 16",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://helpx.adobe.com/content/dam/help/en/indesign/how-to/make-brochure/jcr%3Acontent/main-pars/image/make-brochure_v1_1000x560.jpg.img.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 17",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://i0.wp.com/vibrantgraphic.com/wp-content/uploads/2019/08/Print-Bi-Fold-Brochure-Design-9.jpg?fit=2500%2C1667&ssl=1",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 18",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://www.mimeo.com/wp-content/uploads/2022/01/3-copy.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 19",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://graphicsfamily.com/wp-content/uploads/2020/07/Creative-and-modern-Bi-Fold-Business-Brochure-Design-psd-scaled.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 20",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://psd.design/wp-content/uploads/2020/12/Creative-brochure-template.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 21",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://helpx.adobe.com/content/dam/help/en/indesign/how-to/make-brochure/jcr%3Acontent/main-pars/image/make-brochure_v1_1000x560.jpg.img.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 22",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://i0.wp.com/vibrantgraphic.com/wp-content/uploads/2019/08/Print-Bi-Fold-Brochure-Design-9.jpg?fit=2500%2C1667&ssl=1",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "5",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 23",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://www.mimeo.com/wp-content/uploads/2022/01/3-copy.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "6",
+        "name": "Publisher 5",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 24",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://graphicsfamily.com/wp-content/uploads/2020/07/Creative-and-modern-Bi-Fold-Business-Brochure-Design-psd-scaled.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "6",
+        "name": "Publisher 6",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 25",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://psd.design/wp-content/uploads/2020/12/Creative-brochure-template.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "7",
+        "name": "Publisher 7",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 26",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://helpx.adobe.com/content/dam/help/en/indesign/how-to/make-brochure/jcr%3Acontent/main-pars/image/make-brochure_v1_1000x560.jpg.img.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "7",
+        "name": "Publisher 7",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 27",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://i0.wp.com/vibrantgraphic.com/wp-content/uploads/2019/08/Print-Bi-Fold-Brochure-Design-9.jpg?fit=2500%2C1667&ssl=1",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "7",
+        "name": "Publisher 7",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 28",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://www.mimeo.com/wp-content/uploads/2022/01/3-copy.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "7",
+        "name": "Publisher 7",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 29",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://graphicsfamily.com/wp-content/uploads/2020/07/Creative-and-modern-Bi-Fold-Business-Brochure-Design-psd-scaled.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "8",
+        "name": "Publisher 8",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 65.3,
+        "long": 21.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 30",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://psd.design/wp-content/uploads/2020/12/Creative-brochure-template.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "7",
+        "name": "Publisher 7",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 31",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://www.techsmith.com/blog/wp-content/uploads/2021/02/video-thumbnails-hero-1.png",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "7",
+        "name": "Publisher 7",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 32",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://helpx.adobe.com/content/dam/help/en/indesign/how-to/make-brochure/jcr%3Acontent/main-pars/image/make-brochure_v1_1000x560.jpg.img.jpg",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "8",
+        "name": "Publisher 8",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
+        }
+      }
+    },
+    {
+      "id": 508663,
+      "title": "Brochure 33",
+      "contentId": "dc4bfbcc-...",
+      "validFrom": "2021-04-01T00:00:00",
+      "validUntil": "2021-05-14T23:00:00",
+      "rank": 1.0,
+      "brochureImages": {
+        "thumbnails": "https://i0.wp.com/vibrantgraphic.com/wp-content/uploads/2019/08/Print-Bi-Fold-Brochure-Design-9.jpg?fit=2500%2C1667&ssl=1",
+        "normal": "https://...jpg?policy=320x480",
+        "large": "https://...jpg?policy=768x1024"
+      },
+      "publisher": {
+        "id": "8",
+        "name": "Publisher 8",
+        "publisherType": "RETAILER",
+        "logo": {
+          "thumbnails": "https://logo.com/image-cdn/images/kts928pd/production/c17044253e5474e678261987e11a4448c644bc34-362x372.png?w=1080&q=72",
+          "normal": "https://...jpg?policy=320x480",
+          "large": "https://...jpg?policy=768x1024"
+        }
+      },
+      "location": {
+        "lat": 22.3,
+        "long": 105.3
+      },
+      "page": 0,
+      "type": "BROCHURE",
+      "publishedFrom": "2021-04-03T23:00:00.000+0000",
+      "publishedUntil": "2021-05-14T21:00:00.000+0000",
+      "_links": {
+        "self": {
+          "href": "https://www.conquestgraphics.com/blog/conquest-graphics/2021/07/29/guide-to-tri-fold-brochures-when-to-use-them"
         }
       }
     }
